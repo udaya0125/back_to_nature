@@ -1,0 +1,91 @@
+{
+        "title": "Langtang Valley Trek",
+        "slug": "langtang-valley-trek",
+        "category": "Inbound",
+        "sub_category": "trekking",
+        "description": "A culturally rich and scenic 10-day trek through the Langtang Valley, often called 'the valley of glaciers.' Explore Tamang villages, ancient monasteries, and breathtaking Himalayan vistas—including Langtang Lirung (7,227m)—while supporting communities rebuilding after the 2015 earthquake.",
+        "images": [
+            "../images/langtang1.jpeg",
+            "../images/langtang2.jpeg",
+            "../images/langtang3.jpeg"
+        ],
+        "includes": [
+            "Airport transfers in Kathmandu",
+            "Kathmandu-Syabrubesi-Kathmandu by jeep/bus",
+            "Teahouse accommodation during trek",
+            "All meals (breakfast, lunch, dinner) on trek",
+            "Experienced English-speaking guide",
+            "Porter service (1 porter per trekker, max 15kg)",
+            "Langtang National Park Permit & TIMS card",
+            "First aid kit",
+            "Government taxes"
+        ],
+        "excludes": [
+            "International airfare",
+            "Nepal visa fee",
+            "Travel insurance",
+            "Meals in Kathmandu",
+            "Personal trekking gear",
+            "Hot showers/Wi-Fi (extra cost)",
+            "Tips for guides/porters"
+        ],
+        "itinerary": [
+            {
+                "day": "Day 1",
+                "title": "Arrival in Kathmandu (1,400m / 4,593ft)",
+                "description": "Upon arrival at Tribhuvan International Airport (TIA), you'll be greeted by our representative holding a sign with your name. After completing immigration formalities, you'll be transferred to your hotel in a private vehicle. The drive to Thamel (Kathmandu's tourist hub) takes about 30 minutes. In the evening, you'll meet your trekking guide for a detailed briefing about the trek. They'll check your equipment and answer any questions. Overnight at the hotel with breakfast included."
+            },
+            {
+                "day": "Day 2",
+                "title": "Drive to Syabrubesi (1,503m / 4,931ft) | 7-8 hours",
+                "description": "After an early breakfast (around 6:30 AM), we depart Kathmandu by tourist bus. The journey follows the scenic Prithvi Highway along the Trishuli River, offering views of terraced fields and rural Nepali life. We stop for lunch at Trishuli Bazaar (approx. 3 hours from Kathmandu). After lunch, the road becomes rougher as we ascend through Dhunche (1,965m), the administrative headquarters of Langtang National Park. From Dhunche, we descend sharply to Syabrubesi, arriving by late afternoon. This bustling village has several lodges, shops, and the famous riverside hot springs (optional visit). Overnight at a local lodge."
+            },
+            {
+                "day": "Day 3",
+                "title": "Trek to Lama Hotel (2,470m / 8,103ft) | 5-6 hours",
+                "description": "We start early (7 AM) after breakfast. Crossing the Bhote Koshi River via suspension bridge, the trail enters Langtang National Park. The path winds through dense forests of oak, rhododendron, and bamboo—keep an eye out for langur monkeys and red pandas! We'll stop for lunch at Bamboo Lodge (1,960m). The afternoon involves steady ascent alongside the Langtang River, with several small waterfalls. The 'Lama Hotel' area consists of several basic lodges clustered together—our stop for the night. Total elevation gain: ~1,000m."
+            },
+            {
+                "day": "Day 4",
+                "title": "Trek to Langtang Village (3,430m / 11,253ft) | 5-6 hours",
+                "description": "Today's trek reveals the first glacier views. The trail climbs steadily through forests, emerging at Ghoda Tabela (2,970m, 'Horse Stable') where we'll stop for tea. This area was once a Tibetan resettlement project. After registering at the army check post, the valley widens dramatically. You'll see the devastation from the 2015 earthquake—rebuilt stone houses now stand where the original village was buried. The new Langtang Village is a testament to local resilience. Overnight in a family-run lodge with stunning views of Langtang Lirung."
+            },
+            {
+                "day": "Day 5",
+                "title": "Trek to Kyanjin Gompa (3,865m / 12,680ft) | 3-4 hours",
+                "description": "A shorter but spectacular hiking day. The trail passes through yak pastures and glacial moraines, with towering peaks on all sides. We'll visit the famous Kyanjin Gompa monastery (400 years old) and the local cheese factory (established in 1955 by Swiss aid workers). After lunch, optional hike to Kyanjin Ri (4,773m) for acclimatization. The sunset views of Langtang Lirung from the village are unforgettable. Overnight at a cozy lodge with wood-fired stoves."
+            },
+            {
+                "day": "Day 6",
+                "title": "Exploration Day: Tserko Ri (5,000m / 16,404ft) | 6-7 hours",
+                "description": "Pre-dawn start (4 AM) for the challenging hike to Tserko Ri summit. The trail climbs steeply through moraines—bring headlamps and warm layers! From the top, witness a 360-degree panorama: Langtang Himal, Yala Peak, Gang Chhenpo, and the Tibetan border. Return to Kyanjin Gompa by late morning. Afternoon options: visit the glacier (1 hour walk) or relax at the cheese factory. Learn about earthquake recovery from locals over butter tea."
+            },
+            {
+                "day": "Day 7",
+                "title": "Trek to Lama Hotel (2,470m) | 5-6 hours",
+                "description": "We retrace our steps down the valley, passing through Langtang Village. Stop at Ghoda Tabela for lunch and exit registration. The descent through rhododendron forests is easier on the lungs but tough on knees—trekking poles recommended. Arrive at Lama Hotel by mid-afternoon. Celebrate the completion of your high-altitude journey with the team."
+            },
+            {
+                "day": "Day 8",
+                "title": "Trek to Syabrubesi (1,503m) | 4-5 hours",
+                "description": "Final descent through lush forests with glimpses of Ganesh Himal. Cross the Langtang River via suspension bridge, then a gentle climb to Syabrubesi. Arrive by lunchtime—enjoy a hot shower and relax at the lodge. Optional visit to the Tamang Heritage Museum in the evening."
+            },
+            {
+                "day": "Day 9",
+                "title": "Drive to Kathmandu | 7-8 hours",
+                "description": "Early morning drive back to Kathmandu via Dhunche. Stop for lunch at Trishuli Bazaar. Arrive in Kathmandu by late afternoon—transfer to your hotel. Evening farewell dinner at a traditional Nepali restaurant with cultural dance performances."
+            },
+            {
+                "day": "Day 10",
+                "title": "Departure",
+                "description": "Depending on your flight time, you may have free time for last-minute shopping in Thamel. Our representative will transfer you to the airport 3 hours before your scheduled departure. Safe travels!"
+            }
+        ],
+        "importantmessage": "The Langtang region is still recovering from the 2015 earthquake. Tourism supports local rebuilding efforts. Altitude reaches 5,000m on optional hikes—acclimatize properly. Road conditions to Syabrubesi may be rough; delays possible.",
+        "best_time": "*Best Seasons:* Spring (March-May) for rhododendron blooms and Autumn (September-November) for clear skies. Winter (Dec-Feb) is cold but less crowded.",
+        "whatto_wear": "*Essentials:* Layered clothing (0°C to 20°C range), waterproof jacket, sturdy boots, gloves, and hat. Sunglasses and sunscreen for high-altitude sections.",
+        "duration": "10 days / 9 nights",
+        "elevation": "5,000m (Tserko Ri optional hike)",
+        "grade": "Moderate",
+        "season": "March-May, September-November"
+    }

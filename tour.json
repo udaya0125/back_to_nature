@@ -1,0 +1,111 @@
+{
+        "title": "DIVERSE CHARM TOUR – 10 DAYS NEPAL JOURNEY",
+        "slug": "diverse-charm-tour-10-days-nepal-journey",
+        "category": "Inbound",
+        "sub_category": "tours",
+        "tour_type": "Domestic",
+        "description": "Embark on a soul-refreshing 10-day spiritual and scenic journey through the diverse landscapes and sacred landmarks of Nepal. From the vibrant culture of Kathmandu to the spiritual aura of Janakpur and Lumbini, and the breathtaking beauty of the Himalayas in Jomsom and Pokhara, this tour blends devotion, history, and natural beauty. Visit sacred temples like Janaki and Muktinath, witness the birthplace of Lord Buddha, and enjoy the serene beauty of lakes and mountains in Pokhara.",
+        "images": [
+            "../images/diverse.png"
+        ],
+        "includes": [
+            "Traditional Welcome – On arrival at the airport",
+            "Airport Transfers – Pick-up and drop-off at Tribhuvan International Airport (TIA), Kathmandu",
+            "Accommodation – 9 nights in a standard/deluxe/luxury hotel",
+            "Meal – As per meal plan",
+            "Transportation – Private AC vehicle for all tours, transfers and sightseeing as per itinerary",
+            "Muktinath Travel – All necessary permits, tour by Private Non-AC Jeep from Pokhara to Pokhara",
+            "Cable Car ride – Manakamana Cable car ticket",
+            "Boating in Phewa Lake (Pokhara) – Enjoy a serene boat ride with stunning mountain views (SIC)",
+            "Complimentary SIM Card – Local SIM card for easy communication",
+            "Welcome Drinks – On arrival at the hotel",
+            "Government Taxes & Service Charges – All currently applicable taxes",
+            "1 Liter of mineral water per person daily",
+            "Tissue available in the vehicle during the tour"
+        ],
+        "excludes": [
+            "International airfare to/from Kathmandu",
+            "Nepal Visa Fee (available on arrival at the airport – approx. USD 30 for 15 days)",
+            "Entrance fees to listed monuments and sites",
+            "Guide fee (if required)",
+            "Personal expenses (laundry, phone calls, tips, beverages, etc.)",
+            "Travel Insurance",
+            "Extra expenses due to flight delays, natural calamities, political disturbances, etc.",
+            "Anything not mentioned in the 'Inclusions' section"
+        ],
+        "itinerary": [
+            {
+                "day": "Day 01",
+                "title": "Arrival in Kathmandu",
+                "description": "Upon arrival at Tribhuvan International Airport in Kathmandu, you will be warmly welcomed by our representative and transferred to your hotel. After check-in, you can rest and recover from your journey or take a leisurely evening stroll around the lively Thamel area. Ideal for acclimatization and getting a first taste of the vibrant capital of Nepal."
+            },
+            {
+                "day": "Day 02",
+                "title": "Kathmandu Local Sightseeing",
+                "description": "After breakfast, your day begins with a spiritual and cultural exploration of Kathmandu. Visit the sacred Pashupatinath Temple, Boudhanath Stupa, Swayambhunath (Monkey Temple), and Kathmandu Durbar Square, including the living goddess Kumari’s residence. Sightseeing duration: 5-6 hours."
+            },
+            {
+                "day": "Day 03",
+                "title": "Drive to Janakpur",
+                "description": "After an early breakfast, embark on a scenic 8-9 hour drive to Janakpur, the ancient kingdom of Mithila and birthplace of Goddess Sita. Journey through diverse Terai landscapes. Upon arrival, check in and enjoy the peaceful atmosphere."
+            },
+            {
+                "day": "Day 04",
+                "title": "Janaki Temple Darshan and Drive to Bhairahawa",
+                "description": "In the morning, visit the famous Janaki Temple for darshan and optional visits to Ram Mandir and sacred ponds. Post temple visit, begin the 7-8 hour drive to Bhairahawa, gateway to Lumbini. Check-in and relax."
+            },
+            {
+                "day": "Day 05",
+                "title": "Lumbini Sightseeing and Drive to Pokhara",
+                "description": "After breakfast, explore Lumbini’s Mayadevi Temple, Ashokan Pillar, and international monasteries. Post sightseeing, drive 6-7 hours through lush hills and riversides to Pokhara. Upon arrival, check in and relax in the lakeside town."
+            },
+            {
+                "day": "Day 06",
+                "title": "Sarangkot Sunrise and Pokhara Sightseeing",
+                "description": "Wake early for a Sarangkot sunrise, viewing the Annapurna and Dhaulagiri ranges. After breakfast, visit Bindhyabasini Temple, Davis Falls, Gupteshwor Cave, the International Mountain Museum, and enjoy boating on Phewa Lake. Sightseeing time: 5-6 hours."
+            },
+            {
+                "day": "Day 07",
+                "title": "Drive to Jomsom",
+                "description": "Early morning start for a 6-hour adventurous drive to Jomsom in Mustang. Enjoy scenic river valleys, deep gorges, and Himalayan peaks. Check in and rest in preparation for your pilgrimage."
+            },
+            {
+                "day": "Day 08",
+                "title": "Muktinath Temple Darshan and Drive Back to Pokhara",
+                "description": "Morning jeep ride to Muktinath Temple (3,800m). Perform rituals, bathe under 108 water sprouts, and seek blessings. Return to Jomsom and continue your drive back to Pokhara via the scenic mountain roads."
+            },
+            {
+                "day": "Day 09",
+                "title": "Drive Back to Kathmandu via Manakamana Temple",
+                "description": "Following breakfast, drive 6-7 hours back to Kathmandu. Enroute, stop at Kurintar for a cable car ride to the Manakamana Temple. Resume the drive and check in to your hotel upon arrival."
+            },
+            {
+                "day": "Day 10",
+                "title": "Final Departure",
+                "description": "After breakfast, transfer to Tribhuvan International Airport for your onward journey. End of a spiritually uplifting and naturally enriching Nepal tour."
+            }
+        ],
+        "importantmessage": "Passport must have at least 6 months validity. Complete visa documents required at arrival.",
+        "best_time": "September to November & March to May",
+        "duration": "10 days",
+        "city_covered": [
+            "Kathmandu: 3 Nights",
+            "Janakpur: 1 Night",
+            "Bhairahawa: 1 Night",
+            "Pokhara: 3 Nights",
+            "Jomsom: 1 Night"
+        ],
+        "remember": [
+            "No reservations confirmed until advance confirmation",
+            "Subject to hotel/permit/vehicle availability",
+            "Standard hotel check-in 1400hrs, check-out 1200hrs",
+            "Rates subject to currency fluctuation",
+            "Non-refundable upon confirmation"
+        ],
+        "terms": [
+            "50% deposit required at booking",
+            "Full payment before departure",
+            "100% cancellation charge after visa processing"
+        ],
+        "season": "Year-round"
+    }
