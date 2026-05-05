@@ -4,7 +4,7 @@ import axios from "axios";
 import MyTable from "@/MyTable/MyTable";
 
 
-const Logs = () => {
+const ActivityLogs = () => {
     const [activityLogs, setActivityLogs] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -97,4 +97,4 @@ const Logs = () => {
     );
 };
 
-export default Logs;
+export default ActivityLogs;

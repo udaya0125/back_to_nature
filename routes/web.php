@@ -96,7 +96,7 @@ Route::middleware('auth')->group(function () {
 
  //
      Route::get("/activity-logs",function(){
-        return Inertia::render("AdminPage/Logs");
+        return Inertia::render("AdminPage/ActivityLogs");
     });
 
     Route::get('/ourlogs', [ActivityLogsController::class, 'index'])->name('ourlogs.index');  
