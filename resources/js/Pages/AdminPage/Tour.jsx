@@ -552,7 +552,7 @@ const Tour = () => {
     return (
         <>
             <AdminWrapper>
-                <div className="bg-white rounded-lg shadow-md p-6">
+                <div className="p-6">
                     <div className="flex flex-wrap items-center justify-between mb-6 md:mb-8">
                         <div className="flex items-center">
                             <h1 className="text-2xl md:text-3xl font-bold text-gray-800">
