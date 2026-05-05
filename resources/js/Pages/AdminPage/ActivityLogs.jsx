@@ -73,7 +73,7 @@ const ActivityLogs = () => {
 
     return (
         <AdminWrapper>
-            <div className=" p-6">
+            <div>
                 <div className="flex flex-wrap items-center justify-between mb-6 md:mb-8">
                     <div className="flex items-center">
                         <h1 className="text-2xl md:text-3xl font-bold text-gray-800">
