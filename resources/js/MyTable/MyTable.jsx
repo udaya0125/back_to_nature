@@ -273,4 +273,3 @@ const MyTable = ({ columns, data }) => {
 };
 
 export default MyTable;
-
